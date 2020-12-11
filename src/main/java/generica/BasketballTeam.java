@@ -2,7 +2,7 @@ package generica;
 
 public class BasketballTeam {
 	
-	//generic challenge
+	//generic challenge...
 	
 	private String teamName;
 	
